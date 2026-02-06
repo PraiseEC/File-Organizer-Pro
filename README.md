@@ -12,7 +12,9 @@ A modern, high-performance desktop application designed to solve the problem of 
 - **Safety First:** Features a comprehensive "Undo" function and activity logging.
 
 ## 📸 Demo
-![Application Interface]
+![Application Interface]<img width="2736" height="1824" alt="organizer page " src="https://github.com/user-attachments/assets/fb7e50d9-b846-4324-94e7-bb43309d9d74" />
+<img width="2736" height="1824" alt="Search files page" src="https://github.com/user-attachments/assets/4a5de39e-bc0a-422f-9d34-c75a94a323aa" />
+
 
 ## 🛠️ Installation & Setup
 Follow these steps to run the application locally:
